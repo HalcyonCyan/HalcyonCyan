@@ -4,8 +4,6 @@ I want to study **MATH** forever!
 
 ### 📊 GitHub
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalcyonCyan&theme=github_dark)
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=HalcyonCyan&theme=github-dark-blue&hide_border=true" />
 </p>
@@ -26,6 +24,8 @@ I want to study **MATH** forever!
     src="https://raw.githubusercontent.com/HalcyonCyan/HalcyonCyan/output/github-snake.svg"
   />
 </picture>
+
+
 <!--
 **HalcyonCyan/HalcyonCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
