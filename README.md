@@ -9,7 +9,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=Computer+Science+%C2%B7+Integrated+Circuits+%C2%B7+Physics;Reinforcement+Learning+%C2%B7+Deep+Learning;AI+Infrastructure+%C2%B7+CUDA+%C2%B7+GPU+Computing;Operating+Systems+%C2%B7+Computer+Architecture;Learning+from+first+principles."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=CS+%C2%B7+IC+%C2%B7+Phy;Reinforcement+Learning+%C2%B7+Deep+Learning;AI+Infrastructure+%C2%B7+CUDA+%C2%B7+GPU+Computing;Operating+Systems+%C2%B7+Computer+Architecture;Learning+from+first+principles."
   alt="Typing SVG"
 />
 
@@ -74,6 +74,7 @@
 ## 🔭 Current Focus
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -133,6 +134,7 @@
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -170,22 +172,6 @@
 
 ---
 
-## 📈 Recent GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/HalcyonCyan">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HalcyonCyan&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true"
-    width="96%"
-    alt="HalcyonCyan GitHub Activity Graph"
-  />
-</a>
-
-</div>
-
----
-
 ## 🟩 Contribution Heatmap
 
 <div align="center">
@@ -198,10 +184,6 @@
   />
 </a>
 
-<br/>
-
-<sub>Building consistently, one commit at a time.</sub>
-
 </div>
 
 ---
@@ -212,23 +194,15 @@
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalcyonCyan&theme=github_dark"
-  width="95%"
+  width="92%"
   alt="GitHub Profile Details"
 />
 
 <br/><br/>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalcyonCyan&theme=github_dark"
-  width="46%"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HalcyonCyan&theme=github_dark&utcOffset=8"
-  width="46%"
-  alt="Productive Time"
-/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalcyonCyan&theme=github_dark" width="38%" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HalcyonCyan&theme=github_dark&utcOffset=8" width="38%" alt="Productive Time" />
+</p>
 
 </div>
 
@@ -265,7 +239,7 @@ Computer Science
 
 ## 🌱 Philosophy
 
-<table align="center" width="88%">
+<table align="center" width="85%">
 <tr>
 <td align="center">
 
@@ -273,13 +247,9 @@ Computer Science
 
 <h3>Learn from first principles.</h3>
 
-<strong>Understand the abstraction.</strong>
+<p><strong>Understand the abstraction.</strong></p>
 
-<br/><br/>
-
-Then look underneath it.
-
-<br/><br/>
+<p>Then look underneath it.</p>
 
 <h2>∞</h2>
 
@@ -297,12 +267,9 @@ Then look underneath it.
 
 ## Thanks for visiting 👋
 
-<img
-  src="https://komarev.com/ghpvc/?username=HalcyonCyan&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"
-  alt="Profile Views"
-/>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HalcyonCyan.HalcyonCyan)
 
-<br/><br/>
+<br/>
 
 ### CS × IC × PHY
 
@@ -315,14 +282,6 @@ Then look underneath it.
   width="100%"
   alt="Footer"
 />
-
-</div>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:1E3A8A,100:0F172A&height=150&section=footer"
-  width="100%"
-/>
-
 <!--
 **HalcyonCyan/HalcyonCyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
