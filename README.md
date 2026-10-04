@@ -214,23 +214,23 @@
 
 <table width="100%">
 <tr>
-<td align="center">
+<td>
+
+<div align="center">
 
 <br/>
 
-<h2>Learn from first principles.</h2>
+<em>
+“Learn from first principles.<br/><br/>
+Understand the abstraction.<br/><br/>
+Then look underneath it.<br/><br/>
+∞<br/><br/>
+So I want to study math forever.”
+</em>
 
-<h3>Understand the abstraction.</h3>
+<br/><br/>
 
-<p>Then look underneath it.</p>
-
-<br/>
-
-<h1>∞</h1>
-
-<h2>So I want to study math forever.</h2>
-
-<br/>
+</div>
 
 </td>
 </tr>
