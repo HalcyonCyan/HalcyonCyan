@@ -212,17 +212,17 @@
 
 ## 🌱 Philosophy
 
-## 🌱 Philosophy
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=280&section=header&text=%E2%88%9E&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=28&desc=%E2%80%9CLearn%20from%20first%20principles.%0AUnderstand%20the%20abstraction.%0AThen%20look%20underneath%20it.%0A%0ASo%20I%20want%20to%20study%20math%20forever.%E2%80%9D&descAlign=50&descAlignY=63&descSize=20"
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=340&section=header&text=%E2%88%9E&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=24&desc=%E2%80%9CLearn%20from%20first%20principles.%0AUnderstand%20the%20abstraction.%0AThen%20look%20underneath%20it.%0ASo%20I%20want%20to%20study%20math%20forever.%E2%80%9D&descAlign=50&descAlignY=66&descSize=20"
   width="92%"
   alt="Philosophy Card"
 />
 
 </div>
+
+
 
 ## Thanks for visiting 👋
 
