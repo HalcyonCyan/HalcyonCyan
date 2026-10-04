@@ -3,12 +3,13 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=220&section=header&text=HalcyonCyan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Physics%20%C3%97%20AI%20%C3%97%20Systems&descAlignY=56&descSize=19"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1E3A8A,100:2563EB&height=220&section=header&text=HalcyonCyan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CS%20%C3%97%20IC%20%C3%97%20PHY&descAlignY=56&descSize=20"
   width="100%"
+  alt="HalcyonCyan Header"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&lines=Reinforcement+Learning+%C2%B7+Deep+Learning;AI+Infrastructure+%C2%B7+CUDA+%C2%B7+GPU+Computing;Operating+Systems+%C2%B7+Computer+Architecture;Learning+from+first+principles."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=3B82F6&center=true&vCenter=true&width=780&lines=Computer+Science+%C2%B7+Integrated+Circuits+%C2%B7+Physics;Reinforcement+Learning+%C2%B7+Deep+Learning;AI+Infrastructure+%C2%B7+CUDA+%C2%B7+GPU+Computing;Operating+Systems+%C2%B7+Computer+Architecture;Learning+from+first+principles."
   alt="Typing SVG"
 />
 
@@ -18,28 +19,53 @@
 
 ## 👋 About Me
 
-```yaml
-name: HalcyonCyan
+<table>
+<tr>
 
-currently_learning:
-  - Reinforcement Learning
-  - Deep Learning
-  - LLM Systems
-  - CUDA & GPU Computing
-  - Operating Systems
-  - Computer Architecture
+<td width="65%" valign="top" align="center">
 
-languages:
-  - C++
-  - C
-  - Python
-```
+<h3>🚀 Currently Learning</h3>
 
-My current interests lie at the intersection of:
+<br/>
+
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-1D4ED8?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM%20Systems-3B82F6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA%20%26%20GPU%20Computing-0EA5E9?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-475569?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Architecture-334155?style=for-the-badge&logoColor=white" />
+
+<br/><br/>
+
+</td>
+
+<td width="35%" valign="top" align="center">
+
+<h3>💻 Languages</h3>
+
+<br/>
+
+<img
+  src="https://skillicons.dev/icons?i=cpp,c,python,latex&theme=dark"
+  alt="C++, C, Python and LaTeX"
+/>
+
+<br/><br/>
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
-### Artificial Intelligence x IC x Embedded systems × Systems × Physics
+### Computer Science × Integrated Circuits × Physics
 
 </div>
 
@@ -52,7 +78,7 @@ My current interests lie at the intersection of:
 
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning
+<h3>🤖 Machine Learning</h3>
 
 - Reinforcement Learning
 - Deep Learning
@@ -65,7 +91,7 @@ My current interests lie at the intersection of:
 
 <td width="50%" valign="top">
 
-### ⚙️ AI Infrastructure
+<h3>⚙️ AI Infrastructure</h3>
 
 - LLM Training & Inference
 - CUDA / GPU Computing
@@ -82,7 +108,7 @@ My current interests lie at the intersection of:
 
 <td width="50%" valign="top">
 
-### 💻 Systems
+<h3>💻 Systems</h3>
 
 - Operating Systems
 - Computer Architecture
@@ -95,7 +121,7 @@ My current interests lie at the intersection of:
 
 <td width="50%" valign="top">
 
-### 🔬 Physics
+<h3>🔬 Physics</h3>
 
 - Quantum Mechanics
 - Statistical Physics
@@ -118,26 +144,26 @@ My current interests lie at the intersection of:
 ### Languages
 
 <img
-  src="https://skillicons.dev/icons?i=cpp,c,python"
-  alt="Languages"
+  src="https://skillicons.dev/icons?i=cpp,c,python,latex"
+  alt="C++, C, Python and LaTeX"
 />
 
-<br/>
+<br/><br/>
 
 ### AI / Scientific Computing
 
 <img
   src="https://skillicons.dev/icons?i=pytorch"
-  alt="AI and Scientific Computing"
+  alt="PyTorch"
 />
 
-<br/>
+<br/><br/>
 
 ### Systems & Tools
 
 <img
   src="https://skillicons.dev/icons?i=linux,git,github,docker,cmake,bash,vscode"
-  alt="Systems and Tools"
+  alt="Linux, Git, GitHub, Docker, CMake, Bash and VS Code"
 />
 
 </div>
@@ -148,17 +174,15 @@ My current interests lie at the intersection of:
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HalcyonCyan&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&radius=8"
-  width="96%"
-  alt="GitHub Activity Graph"
-/>
+<a href="https://github.com/HalcyonCyan">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HalcyonCyan&bg_color=0D1117&color=58A6FF&line=3B82F6&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true"
+    width="96%"
+    alt="HalcyonCyan GitHub Activity Graph"
+  />
+</a>
 
 </div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HalcyonCyan&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
@@ -169,8 +193,8 @@ My current interests lie at the intersection of:
 <a href="https://github.com/HalcyonCyan">
   <img
     src="https://ghchart.rshah.org/2563EB/HalcyonCyan"
-    alt="HalcyonCyan GitHub Contribution Chart"
     width="95%"
+    alt="HalcyonCyan GitHub Contribution Heatmap"
   />
 </a>
 
@@ -189,21 +213,7 @@ My current interests lie at the intersection of:
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalcyonCyan&theme=github_dark"
   width="95%"
-  alt="Profile Details"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HalcyonCyan&theme=github_dark"
-  width="46%"
-  alt="Repositories per Language"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalcyonCyan&theme=github_dark"
-  width="46%"
-  alt="Most Commit Language"
+  alt="GitHub Profile Details"
 />
 
 <br/><br/>
@@ -255,18 +265,31 @@ Computer Science
 
 ## 🌱 Philosophy
 
-<div align="center">
+<table align="center" width="88%">
+<tr>
+<td align="center">
 
-<img
-  src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&quote=Learn%20from%20first%20principles.%20Understand%20the%20abstraction.%20Then%20look%20underneath%20it.%20I%20want%20to%20study%20math%20forever.&author=HalcyonCyan&bg_color=0D1117&quote_color=58A6FF&author_color=C9D1D9&accent_color=2563EB&border_color=30363D&border_width=1&border_radius=12"
-  alt="Philosophy"
-/>
+<br/>
+
+<h3>Learn from first principles.</h3>
+
+<strong>Understand the abstraction.</strong>
 
 <br/><br/>
 
-### I want to study math forever.
+Then look underneath it.
 
-</div>
+<br/><br/>
+
+<h2>∞</h2>
+
+<h3>So I want to study math forever.</h3>
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -275,15 +298,23 @@ Computer Science
 ## Thanks for visiting 👋
 
 <img
-  src="https://komarev.com/ghpvc/?username=HalcyonCyan&style=flat-square&color=2563EB&label=PROFILE+VIEWS"
+  src="https://komarev.com/ghpvc/?username=HalcyonCyan&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"
   alt="Profile Views"
 />
 
 <br/><br/>
 
-### Physics × AI × Systems
+### CS × IC × PHY
 
 *Keep learning. Keep building.*
+
+</div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:1E3A8A,100:0F172A&height=150&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
 
