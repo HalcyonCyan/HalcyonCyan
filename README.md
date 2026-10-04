@@ -214,10 +214,8 @@
 
 <div align="center">
 
-
-
 <img
-  src=".philosophy.svg"
+  src="./philosophy.svg"
   width="92%"
   alt="Philosophy"
 />
