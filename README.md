@@ -208,52 +208,27 @@
 
 ---
 
-## 🧠 What I'm Learning
 
-```text
-Computer Science
-│
-├── Algorithms
-│
-├── Machine Learning
-│   ├── Classical Machine Learning
-│   ├── Deep Learning
-│   ├── Reinforcement Learning
-│   └── Generative Models
-│
-├── Systems
-│   ├── Operating Systems
-│   ├── Computer Architecture
-│   ├── High Performance Computing
-│   └── Distributed Systems
-│
-└── AI Infrastructure
-    ├── GPU Computing
-    ├── CUDA
-    ├── GEMM Optimization
-    ├── LLM Training
-    └── LLM Inference
-```
-
----
 
 ## 🌱 Philosophy
 
-<table align="center" width="85%">
+<table width="100%">
 <tr>
 <td align="center">
 
 <br/>
 
-<h3>Learn from first principles.</h3>
+<h2>Learn from first principles.</h2>
 
-<p><strong>Understand the abstraction.</strong></p>
+<h3>Understand the abstraction.</h3>
 
 <p>Then look underneath it.</p>
 
-<h2>∞</h2>
+<br/>
 
-<h3>So I want to study math forever.</h3>
+<h1>∞</h1>
+
+<h2>So I want to study math forever.</h2>
 
 <br/>
 
@@ -261,13 +236,9 @@ Computer Science
 </tr>
 </table>
 
----
-
-<div align="center">
-
 ## Thanks for visiting 👋
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HalcyonCyan.HalcyonCyan)
+
 
 <br/>
 
